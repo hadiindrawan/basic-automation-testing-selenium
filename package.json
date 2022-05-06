@@ -1,0 +1,22 @@
+{
+  "name": "qatest",
+  "version": "1.0.0",
+  "description": "This QA test with selenium tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadiindrawan/basic-automation-testing-selenium.git"
+  },
+  "keywords": [
+    "QA"
+  ],
+  "author": "Hadi Indrawan",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^101.0.0",
+    "selenium-webdriver": "^4.1.2"
+  }
+}
